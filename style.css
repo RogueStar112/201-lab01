@@ -1,0 +1,43 @@
+h1 {
+  background-color: darkred;
+  color: white;
+  padding: 20px;
+  font-family: monospace;
+}
+
+p {
+  padding: 20px;
+}
+
+#q1 {
+
+  background-color: limegreen;
+  color: yellow;
+
+}
+
+#q2 {
+
+  background-color: navy;
+  color: orange;
+
+}
+
+#q3 {
+
+  background-color: sandybrown;
+
+}
+
+#q4 {
+
+  background-color: blueviolet;
+  color: white;
+
+}
+
+footer {
+
+  background-color: gray;
+
+}
